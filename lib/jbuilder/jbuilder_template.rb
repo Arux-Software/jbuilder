@@ -1,5 +1,5 @@
 require 'jbuilder/jbuilder'
-require 'action_dispatch/http/mime_type'
+require 'action_controller/mime_type'
 require 'active_support/cache'
 
 class JbuilderTemplate < Jbuilder
